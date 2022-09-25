@@ -1,0 +1,7 @@
+Copy: L=L+R R=L+R
+Preamp: 15 dB
+Copy: L=L+R R=L+R
+VSTPlugin: Library Wider.dll ChunkData "vcgLPg=="
+VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUIAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMTg5OTk5OTkzODkwNTIzOTEwNTIiIHN0ZXJlb1R5cGU9IjAiLz4A"
+#ONLY TURN ON IF U NEED IT NIGGER
+# Preamp: 10 dB
